@@ -2,7 +2,7 @@
 layout: post
 title: 写在九月底
 date: 2017-9-30
-header-img: "img/bg2.jpg"
+header-img: "img/bg1.jpg"
 categories: blog
 description: Markdown tutorial
 ---
