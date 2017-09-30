@@ -1,0 +1,71 @@
+# Site settings
+title: 右手改变世界
+header-img: "img/1.jpg"
+tagline: "cn"  
+description: "Limbo_Yang| I am who I am"  
+baseurl: ""
+url: "http://limbo0000.github.io"  
+ # About/contact
+owner: 
+  name: "Limbo "
+  email: "limbo0000@gmail.com"
+  bio: "Welcome bro"
+
+# Data
+gavatar: http://dreamofbook.qiniudn.com/Az..png
+favicon: img/favicon.png
+
+douban_username:  
+github_username: limbo0000
+facebook_username: 
+zhihu_username: yang-ce-yuan
+email: limbo0000@gmail.com
+jianshu_username: 047512188d81  
+
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 8
+gems: [jekyll-paginate]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+
+# Defaults for posts
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Limbo_Yang|"
+      header-img: "img/6.jpg" # We don't want posts without a header image, that whould mean white on white
+
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : Limbo_Yang|
+  disqus :
+      short_name : 
+  duoshuo_share: true
+
+
+# Analytics and webmaster tools stuff goes here
+
+# Google Analytics
+#ga_track_id: 'UA-91795857-1'            # Format: UA-xxxxxx-xx
+#ga_domain:    
+
+ # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
+
+#excerpt
+excerpt_separator: "\n\n\n\n"
