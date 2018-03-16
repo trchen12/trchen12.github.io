@@ -19,7 +19,7 @@ header-img: "img/5.jpg"
 </center>
 
 ### Publications:
-- Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs. IEEE Transactions on Geoscience and Remote Sensing.
+- Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs. IEEE Transactions on Geoscience and Remote Sensing （TGRS）.
 
 ### 项目经历
 - 曾担任西北工业大学足球机器人基地实物NAO组队长。
