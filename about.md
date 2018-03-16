@@ -32,9 +32,8 @@ header-img: "img/5.jpg"
 
 ### 联系我
  
-- Blog: [limbo0000.github.io](http://limbo0000.github.io/limbo/)    
-- Gmail: [limbo0000@gmail.com](mailto:limbo0000@gmail.com )  
-- Email: [limbo0066@163.com](mailto:limbo0066@163.com)
+- Homepage: [ceyuan.me](http://ceyuan.me/about/)    
+- Gmail: [limbo0066@gmail.com](mailto:limbo0066@gmail.com )  
 - Github: [github.com/limbo0000](https://github.com/limbo0000/)
 - Linkedin: [linkedin.com/in/limbo0066/](https://www.linkedin.com/in/limbo0066/)
 
