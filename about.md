@@ -8,10 +8,6 @@ header-img: "img/5.jpg"
 
 
 <center>
-    <p><img src="https://github.com/limbo0000/limbo/blob/master/img/ycy.jpg?raw=true" align="center" width="200" height="200"></p>
-</center>
-
-<center>
 目前是西北工业大学一名本科生。
 <br/>致力于深度学习方向，希望在该领域做出一点微小的贡献。
 <br/>Research Intern in SenseTime Group Limited.
@@ -21,8 +17,9 @@ header-img: "img/5.jpg"
 ### Publications:
 - Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs. IEEE Transactions on Geoscience and Remote Sensing （TGRS）.
 
-### 项目经历
+### 经历：
 - 曾担任西北工业大学足球机器人基地实物NAO组队长。
+- Research Intern in SenseTime Group Limited.
 
 ### 个人爱好
 - 编程
