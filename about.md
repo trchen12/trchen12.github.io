@@ -5,15 +5,17 @@ description: "认真生活"
 header-img: "img/5.jpg"
 ---
 <center>
+ 
 ## Ceyuan Yang 杨策元
+
 </center>
 
 
 ### Biography
-Ceyuan Yang is a undergraduate student in Northwestern Polytechnical University (NPU). 
+Ceyuan Yang is a undergraduate student in [Honors College](http://honors.nwpu.edu.cn/) at [Northwestern Polytechnical University (NPU)](http://www.nwpu.edu.cn/).
 
 ### News
-Currently as a research intern in SenseTime Group Limited, supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
+**[Oct.2017 - now]** Currently as a research intern in SenseTime Group Limited, supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
 
 ### Publications:
 - Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs. IEEE Transactions on Geoscience and Remote Sensing （TGRS）.
