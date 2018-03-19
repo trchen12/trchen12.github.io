@@ -6,15 +6,14 @@ header-img: "img/5.jpg"
 ---
 ## Ceyuan Yang 杨策元
 
-
 ### Biography
-Ceyuan Yang is a undergraduate student in [<span style="border-bottom:2px dashed yellow;">Honors College</span>](http://honors.nwpu.edu.cn/) at [<span style="border-bottom:2px dashed yellow;">Northwestern Polytechnical University (NPU)</span>](http://www.nwpu.edu.cn/).
+Ceyuan Yang is a undergraduate student in [Honors College](http://honors.nwpu.edu.cn/) at [Northwestern Polytechnical University](http://www.nwpu.edu.cn/).
 
 ### News
 **[Oct.2017 - now]** Currently as a research intern in SenseTime Group Limited, supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
 
 ### Publications:
-- Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs. IEEE Transactions on Geoscience and Remote Sensing （TGRS）.
+- Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. [When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs](http://ieeexplore.ieee.org/document/8252784/). IEEE Transactions on Geoscience and Remote Sensing （TGRS）.
 
 ### Honors & Awards：
 -  2017 3rd Class Scholarship of Ministry of Industry and Information Technology.
@@ -24,18 +23,8 @@ Ceyuan Yang is a undergraduate student in [<span style="border-bottom:2px dashed
 -  2016 1st Prize of RoboCup China Open competition (As the team leader).
 -  2016 **Champion** of Chinese Robot Competition (As the team leader).
 
-
-
 ### Contact
  
 - Homepage: [ceyuan.me](http://ceyuan.me/about/)    
 - Gmail: [limbo0066@gmail.com](mailto:limbo0066@gmail.com )  
 - Github: [github.com/limbo0000](https://github.com/limbo0000/)
-
-
-
-
-
-
-
-
