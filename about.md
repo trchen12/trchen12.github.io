@@ -16,12 +16,13 @@ Ceyuan Yang is a undergraduate student in [Honors College](http://honors.nwpu.ed
 - Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. [When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs](http://ieeexplore.ieee.org/document/8252784/). IEEE Transactions on Geoscience and Remote Sensing （TGRS）.
 
 ### Honors & Awards：
--  2017 3rd Class Scholarship of Ministry of Industry and Information Technology.
+-  2017 **3rd Class** Scholarship of Ministry of Industry and Information Technology.
 -  2016 National Scholarship.
--  2016 1st Class of the BaoGang Scholarship (one of the only two undergraduate scholars in NPU).
+-  2016 **1st Class** of the BaoGang Scholarship (one of the only two undergraduates in NPU).
 -  2016 Excellent Student Pacesetter (one of the only two in Honors College).
--  2016 1st Prize of RoboCup China Open competition (As the team leader).
+-  2016 **1st Prize** of RoboCup China Open competition (As the team leader).
 -  2016 **Champion** of Chinese Robot Competition (As the team leader).
+...
 
 ### Contact
  
