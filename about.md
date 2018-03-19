@@ -10,7 +10,7 @@ header-img: "img/5.jpg"
 Ceyuan Yang is a undergraduate student in [Honors College](http://honors.nwpu.edu.cn/) at [Northwestern Polytechnical University](http://www.nwpu.edu.cn/).
 
 ### News
-**[Oct.2017 - now]** Currently as a research intern in SenseTime Group Limited, supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
+**[Oct.2017 - now]** Currently I am a research intern in SenseTime Group Limited, supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
 
 ### Publications:
 - Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. [When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs](http://ieeexplore.ieee.org/document/8252784/). IEEE Transactions on Geoscience and Remote Sensing （TGRS）.
