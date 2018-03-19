@@ -7,7 +7,7 @@ header-img: "img/5.jpg"
 ## Ceyuan Yang 杨策元
 
 ### Biography
-Ceyuan Yang is a undergraduate student in [Honors College](http://honors.nwpu.edu.cn/) at [Northwestern Polytechnical University](http://www.nwpu.edu.cn/).
+Ceyuan Yang is a undergraduate student in [Honors College](http://honors.nwpu.edu.cn/) at [Northwestern Polytechnical University](http://www.nwpu.edu.cn/). 
 
 ### News
 **[Oct.2017 - now]** Currently I am a research intern in SenseTime Group Limited, supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
@@ -22,10 +22,11 @@ Ceyuan Yang is a undergraduate student in [Honors College](http://honors.nwpu.ed
 -  2016 Excellent Student Pacesetter (one of the only two in Honors College).
 -  2016 **1st Prize** of RoboCup China Open competition (As the team leader).
 -  2016 **Champion** of Chinese Robot Competition (As the team leader).
+
 ...
 
 ### Contact
  
 - Homepage: [ceyuan.me](http://ceyuan.me/about/)    
-- Gmail: [limbo0066@gmail.com](mailto:limbo0066@gmail.com )  
+- Email: [yangceyuan@sensetime.com](mailto:limbo0066@gmail.com )  
 - Github: [github.com/limbo0000](https://github.com/limbo0000/)
