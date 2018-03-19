@@ -4,14 +4,16 @@ title: "About Me"
 description: "认真生活"
 header-img: "img/5.jpg"
 ---
-### 我是杨策元
-
-
 <center>
-目前是西北工业大学一名本科生<2014-2018>。
-<br/>致力于深度学习方向，希望在该领域做出一点微小的贡献。
-
+## Ceyuan Yang 杨策元
 </center>
+
+
+### Biography
+Ceyuan Yang is a undergraduate student in Northwestern Polytechnical University (NPU). 
+
+### News
+Currently as a research intern in SenseTime Group Limited, supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
 
 ### Publications:
 - Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs. IEEE Transactions on Geoscience and Remote Sensing （TGRS）.
