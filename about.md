@@ -7,7 +7,7 @@ header-img: "img/5.jpg"
 ## Ceyuan Yang 杨策元
 
 ### Biography
-Ceyuan Yang is a undergraduate student in [Honors College](http://honors.nwpu.edu.cn/) at [Northwestern Polytechnical University](http://www.nwpu.edu.cn/). 
+Ceyuan Yang is a undergraduate student at [Honors College](http://honors.nwpu.edu.cn/) in [Northwestern Polytechnical University](http://www.nwpu.edu.cn/). After that, he will pursue his PhD degree at [Multimedia lab](http://mmlab.ie.cuhk.edu.hk/), [Department of Information Engineering](http://www.ie.cuhk.edu.hk/main/index.shtml) in the [Chinese University of Hong Kong.](http://www.cuhk.edu.hk/chinese/index.html)  
 
 ### News
 **[Oct.2017 - now]** Currently I am a research intern in [SenseTime Group Limited](https://www.sensetime.com/), supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
