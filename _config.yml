@@ -1,8 +1,8 @@
 # Site settings
-title: 右手改变世界
+title: 遗世独立的理想国
 header-img: "img/1.jpg"
 tagline: "cn"  
-description: "Limbo_Yang| I am who I am"  
+description: "Ceyuan| I am who I am"  
 baseurl: ""
 url: "http://limbo0000.github.io"  
  # About/contact
@@ -43,14 +43,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Limbo_Yang|"
+      author: "Ceyuan|"
       header-img: "img/6.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Limbo_Yang|
+    short_name : Ceyuan|
   disqus :
       short_name : 
   duoshuo_share: true
