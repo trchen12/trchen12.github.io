@@ -7,7 +7,7 @@ header-img: "img/5.jpg"
 ## Ceyuan Yang 杨策元
 
 ### Biography
-Ceyuan Yang is pursuing his PhD degree at [<U>Multimedia lab (MMLAB)</U>](http://mmlab.ie.cuhk.edu.hk/), [<U>Department of Information Engineering</U>](http://www.ie.cuhk.edu.hk/main/index.shtml) in the [<U>Chinese University of Hong Kong.</U>](http://www.cuhk.edu.hk/chinese/index.html) Before that, He received the B. Eng degree from [<U>Honors College</U>](http://honors.nwpu.edu.cn/) in [<U>Northwestern Polytechnical University</U>](http://www.nwpu.edu.cn/) in 2018. 
+Ceyuan Yang is pursuing his PhD degree at [<font color="blue" size="3"> Multimedia lab (MMLAB)</font>](http://mmlab.ie.cuhk.edu.hk/), [<U>Department of Information Engineering</U>](http://www.ie.cuhk.edu.hk/main/index.shtml) in the [<U>Chinese University of Hong Kong.</U>](http://www.cuhk.edu.hk/chinese/index.html) Before that, He received the B. Eng degree from [<U>Honors College</U>](http://honors.nwpu.edu.cn/) in [<U>Northwestern Polytechnical University</U>](http://www.nwpu.edu.cn/) in 2018. 
 
 His research interests include video understanding, adversarial learning and unsupervised learning.
 
