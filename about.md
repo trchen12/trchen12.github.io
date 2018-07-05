@@ -13,6 +13,7 @@ His research interests include video understanding, adversarial learning and uns
 
 ### News
 **2 papers**  have been accepted by **ECCV2018**. See you guys in Munich !!
+
 **[Oct.2017 - now]** Currently I am a research intern in [SenseTime Group Limited](https://www.sensetime.com/), supervised by [Zhe Wang](http://www.ee.cuhk.edu.hk/~zwang/) and [Jianping Shi](http://shijianping.me/).
 
 ### Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-TW&user=Rfj4jWoAAAAJ&view_op=list_works&gmla=AJsN-F4cbwn2BxbxEqAVrZvFbYCb9xhemNwPSdbWoRBLR7uixoeKEpAGSVr9WfByTZ84Y4mdu8ZqXtAoTAHOISA4uYnrPMlkBro6o75XfFo_DpPBZ0xxNts)]:
