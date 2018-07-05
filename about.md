@@ -12,9 +12,7 @@ Ceyuan Yang is pursuing his PhD degree at [<U>Multimedia lab (MMLAB)</U>](http:/
 His research interests include video understanding, adversarial learning and unsupervised learning.
 
 ### News
-- <font color="red" size="3"> 
-2 papers have been accepted by ECCV2018.
-</font>
+- <font color="red" size="3"> 2 papers have been accepted by ECCV2018.</font>
 
 - Currently I am a research intern in [<U>SenseTime Group Limited</U>](https://www.sensetime.com/), supervised by [<U>Zhe Wang</U>](http://www.ee.cuhk.edu.hk/~zwang/) and [<U>Jianping Shi</U>](http://shijianping.me/) **[Oct.2017 - now]** .
 
