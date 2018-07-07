@@ -17,7 +17,9 @@ His research interests include video understanding, adversarial learning and uns
 - Currently I am a research intern in [SenseTime Group Limited](https://www.sensetime.com/), supervised by [<U>Zhe Wang</U>](http://www.ee.cuhk.edu.hk/~zwang/) and [<U>Jianping Shi</U>](http://shijianping.me/) **[Oct.2017 - now]** .
 
 ### Publications [[<U>Google Scholar</U>](https://scholar.google.com.hk/citations?hl=zh-TW&user=Rfj4jWoAAAAJ&view_op=list_works&gmla=AJsN-F4cbwn2BxbxEqAVrZvFbYCb9xhemNwPSdbWoRBLR7uixoeKEpAGSVr9WfByTZ84Y4mdu8ZqXtAoTAHOISA4uYnrPMlkBro6o75XfFo_DpPBZ0xxNts)]:
-- **Ceyuan Yang**, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin. "Pose Guided Human Video Generation." **Proc. of IEEE European Conference on Computer Vision (ECCV), 2018.** [Coming soon]
+- "Pose Guided Human Video Generation." 
+**Ceyuan Yang**, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin. 
+**Proc. of IEEE European Conference on Computer Vision (ECCV), 2018.** [Coming soon]
 
 - Xinge Zhu, Hui Zhou, **Ceyuan Yang**, Jianping Shi, Dahua Lin. "Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation." **Proc. of IEEE European Conference on Computer Vision (ECCV), 2018.** [Coming soon]
 
