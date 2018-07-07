@@ -25,8 +25,9 @@ His research interests include video understanding, adversarial learning and uns
 		<b> Ceyuan Yang </b>, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin. 
 		<br>
 		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.
-		<br>
-		<p style="margin-top:0.5px">[Coming soon]</p>
+		<p style="margin-top:0.5px">
+		[Coming soon]
+		</p>
 	</li>
 	<li>
 		Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation, 
