@@ -21,7 +21,7 @@ His research interests include video understanding, adversarial learning and uns
 
 - Xinge Zhu, Hui Zhou, **Ceyuan Yang**, Jianping Shi, Dahua Lin. "Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation." **Proc. of IEEE European Conference on Computer Vision (ECCV), 2018.** [Coming soon]
 
-- Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. "When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs". **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**. [[**Paper**](http://ieeexplore.ieee.org/document/8252784/)] [[**Code**](https://github.com/limbo0000/PairLoss)]
+- Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. "When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs". **IEEE Trans. on Geoscience and Remote Sensing (TGRS), 2018.** [[**Paper**](http://ieeexplore.ieee.org/document/8252784/)] [[**Code**](https://github.com/limbo0000/PairLoss)]
 
 ### Honors & Awards：
 -  2018 **Excellent Graduate** of Northwestern Polytechnical University.
