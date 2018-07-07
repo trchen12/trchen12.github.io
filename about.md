@@ -26,7 +26,6 @@ His research interests include video understanding, adversarial learning and uns
 		<br>
 		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018. <br>
 		[Coming soon] <br>
-		
 	</li>
 	<li>
 		Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation, 
