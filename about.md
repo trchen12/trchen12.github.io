@@ -19,18 +19,33 @@ His research interests include video understanding, adversarial learning and uns
 ### Publications [[<U>Google Scholar</U>](https://scholar.google.com.hk/citations?hl=zh-TW&user=Rfj4jWoAAAAJ&view_op=list_works&gmla=AJsN-F4cbwn2BxbxEqAVrZvFbYCb9xhemNwPSdbWoRBLR7uixoeKEpAGSVr9WfByTZ84Y4mdu8ZqXtAoTAHOISA4uYnrPMlkBro6o75XfFo_DpPBZ0xxNts)]:
 <ul>
 	<li>
-		Pose Guided Human Video Generation.</br>
-		<b> Ceyuan Yang <\b>, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin.</br>
+		Pose Guided Human Video Generation,</br>
+		<b> Ceyuan Yang </b>, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin.</br>
 		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.</br>
 		<p style="margin-top:3px">
 			[Coming soon]
 		</p>
 	</li>
+	<li>
+		Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation,</br>
+		Xinge Zhu, Hui Zhou, <b>Ceyuan Yang</b>, Jianping Shi, Dahua Lin.</br>
+		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.</br>
+		<p style="margin-top:3px">
+			[Coming soon]
+		</p>
+	</li>
+	<li>
+		<a href="http://ieeexplore.ieee.org/document/8252784/">When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs </a>,</br>
+		Gong Chen, <b>Ceyuan Yang</b>, Xiwen Yao, Lei Guo, Junwei Han.</br>
+		<em>IEEE Trans. on Geoscience and Remote Sensing</em> (<b>TGRS</b>), 2018.</br>
+		<p style="margin-top:3px">
+			[<a href="http://ieeexplore.ieee.org/document/8252784/">Paper</a>]
+			[<a href="https://github.com/limbo0000/PairLoss">Code</a>]
+		</p>
+	</li>
+
 </ul>
 
-- Xinge Zhu, Hui Zhou, **Ceyuan Yang**, Jianping Shi, Dahua Lin. "Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation." **Proc. of IEEE European Conference on Computer Vision (ECCV), 2018.** [Coming soon]
-
-- Gong Chen, **Ceyuan Yang**, Xiwen Yao, Lei Guo, Junwei Han. "When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs". **IEEE Trans. on Geoscience and Remote Sensing (TGRS), 2018.** [[**Paper**](http://ieeexplore.ieee.org/document/8252784/)] [[**Code**](https://github.com/limbo0000/PairLoss)]
 
 ### Honors & Awards：
 -  2018 **Excellent Graduate** of Northwestern Polytechnical University.
