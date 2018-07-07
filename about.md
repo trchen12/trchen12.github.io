@@ -25,7 +25,8 @@ His research interests include video understanding, adversarial learning and uns
 		<b> Ceyuan Yang </b>, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin. 
 		<br>
 		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.
-		<p style="margin-top:1.5px">[Coming soon]</p>
+		<br>
+		[Coming soon]
 	</li>
 	<li>
 		Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation, 
@@ -33,7 +34,8 @@ His research interests include video understanding, adversarial learning and uns
 		Xinge Zhu, Hui Zhou, <b>Ceyuan Yang</b>, Jianping Shi, Dahua Lin. 
 		<br>
 		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.
-		<p style="margin-top:1.5px">[Coming soon]</p>
+		<br>
+		[Coming soon]
 	</li>
 	<li>
 		<a href="http://ieeexplore.ieee.org/document/8252784/">Remote Sensing Image Scene Classification via Learning Discriminative CNNs, </a> 
@@ -41,7 +43,8 @@ His research interests include video understanding, adversarial learning and uns
 		Gong Chen, <b>Ceyuan Yang</b>, Xiwen Yao, Lei Guo, Junwei Han. 
 		<br>
 		<em>IEEE Trans. on Geoscience and Remote Sensing</em> (<b>TGRS</b>), 2018.
-		<p style="margin-top:1.5px">[<a href="http://ieeexplore.ieee.org/document/8252784/">Paper</a>][<a href="https://github.com/limbo0000/PairLoss">Code</a>]</p>
+		<br>
+		[<a href="http://ieeexplore.ieee.org/document/8252784/">Paper</a>][<a href="https://github.com/limbo0000/PairLoss">Code</a>]
 	</li>
 
 </ul>
