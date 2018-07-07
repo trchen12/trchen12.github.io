@@ -21,7 +21,7 @@ His research interests include video understanding, adversarial learning and uns
 	<li>
 		Pose Guided Human Video Generation,</br>
 		<b> Ceyuan Yang </b>, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin.</br>
-		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.</br>
+		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.
 		<p style="margin-top:3px">
 			[Coming soon]
 		</p>
@@ -29,7 +29,7 @@ His research interests include video understanding, adversarial learning and uns
 	<li>
 		Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation,</br>
 		Xinge Zhu, Hui Zhou, <b>Ceyuan Yang</b>, Jianping Shi, Dahua Lin.</br>
-		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.</br>
+		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.
 		<p style="margin-top:3px">
 			[Coming soon]
 		</p>
@@ -37,7 +37,7 @@ His research interests include video understanding, adversarial learning and uns
 	<li>
 		<a href="http://ieeexplore.ieee.org/document/8252784/">When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs </a>,</br>
 		Gong Chen, <b>Ceyuan Yang</b>, Xiwen Yao, Lei Guo, Junwei Han.</br>
-		<em>IEEE Trans. on Geoscience and Remote Sensing</em> (<b>TGRS</b>), 2018.</br>
+		<em>IEEE Trans. on Geoscience and Remote Sensing</em> (<b>TGRS</b>), 2018.
 		<p style="margin-top:3px">
 			[<a href="http://ieeexplore.ieee.org/document/8252784/">Paper</a>]
 			[<a href="https://github.com/limbo0000/PairLoss">Code</a>]
