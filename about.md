@@ -25,7 +25,7 @@ His research interests include video understanding, adversarial learning and uns
 		<b> Ceyuan Yang </b>, Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin. 
 		<br>
 		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.
-		<p style="margin-top:0.5px">
+		<p style="margin-top:0px">
 		[Coming soon]
 		</p>
 	</li>
