@@ -7,7 +7,7 @@ header-img: "img/5.jpg"
 ## Ceyuan Yang 杨策元
 
 ### Biography
-Ceyuan Yang will be the Research Assistant at [<U> Multimedia lab (MMLAB)</U>](http://mmlab.ie.cuhk.edu.hk/), [Department of Information Engineering](http://www.ie.cuhk.edu.hk/main/index.shtml) in the [Chinese University of Hong Kong.](http://www.cuhk.edu.hk/chinese/index.html) during his gap year. Before that, He received the B. Eng degree from [<U>Honors College</U>](http://honors.nwpu.edu.cn/) in [Northwestern Polytechnical University](http://www.nwpu.edu.cn/) in 2018. 
+Ceyuan Yang will be the Research Assistant at [<U> Multimedia lab (MMLAB)</U>](http://mmlab.ie.cuhk.edu.hk/), [Department of Information Engineering](http://www.ie.cuhk.edu.hk/main/index.shtml) in the [Chinese University of Hong Kong](http://www.cuhk.edu.hk/chinese/index.html) during his gap year. Before that, He received the B. Eng degree from [<U>Honors College</U>](http://honors.nwpu.edu.cn/) in [Northwestern Polytechnical University](http://www.nwpu.edu.cn/) in 2018. 
 
 His research interests include video understanding, adversarial learning and unsupervised learning.
 
