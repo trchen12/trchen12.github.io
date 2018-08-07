@@ -2,12 +2,12 @@
 title: 遗世独立的理想国
 header-img: "img/1.jpg"
 tagline: "cn"  
-description: "Ceyuan| I am who I am"  
+description: "Tianrong| I am who I am"  
 baseurl: ""
 url: "http://limbo0000.github.io"  
  # About/contact
 owner: 
-  name: "Limbo "
+  name: "Tianrong "
   email: "limbo0000@gmail.com"
   bio: "Welcome bro"
 
@@ -16,7 +16,7 @@ gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
 douban_username:  
-github_username: limbo0000
+github_username: trchen12
 facebook_username: 
 zhihu_username: yang-ce-yuan
 email: limbo0000@gmail.com
@@ -43,14 +43,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Ceyuan|"
+      author: "Tianrong|"
       header-img: "img/6.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Ceyuan|
+    short_name : Tianrong|
   disqus :
       short_name : 
   duoshuo_share: true
