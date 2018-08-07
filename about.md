@@ -12,41 +12,8 @@ Tianrong Chen will pursue the Phd degree at [<U> blabla lab</U>](lab homepage li
 Her research interests include blablabla.
 
 ### News
-- <font color="red" size="3"> 2 papers have been accepted by ECCV2018.</font>
+- <font color="red" size="3"> blablablabla.</font>
 
-- Currently I am a research intern in [SenseTime Group Limited](https://www.sensetime.com/), supervised by [<U>Zhe Wang</U>](http://www.ee.cuhk.edu.hk/~zwang/) and [<U>Jianping Shi</U>](http://shijianping.me/) **[Oct.2017 - now]** .
-
-### Publications [[<U>Google Scholar</U>](https://scholar.google.com.hk/citations?hl=zh-TW&user=Rfj4jWoAAAAJ&view_op=list_works&gmla=AJsN-F4cbwn2BxbxEqAVrZvFbYCb9xhemNwPSdbWoRBLR7uixoeKEpAGSVr9WfByTZ84Y4mdu8ZqXtAoTAHOISA4uYnrPMlkBro6o75XfFo_DpPBZ0xxNts)]:
-
-<ul>
-	<li>
-		Pose Guided Human Video Generation, 
-	        <br>
-		<b> Ceyuan Yang, </b> Zhe Wang, Xinge Zhu, Chen Huang, Jianping Shi, Dahua Lin. 
-		<br>
-		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018. <br>
-		[<a href="http://ceyuan.me/blog/2018/07/27/eccv18/">Project Page</a>] [<a href="https://arxiv.org/abs/1807.11152">Paper</a>]<p></p>
-	</li>
-	<li>
-		Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation, 
-                <br>
-		Xinge Zhu, Hui Zhou, <b>Ceyuan Yang,</b> Jianping Shi, Dahua Lin. 
-		<br>
-		<em>IEEE European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.
-		<br>
-		[Coming soon] <p></p>
-	</li>
-	<li>
-		<a href="http://ieeexplore.ieee.org/document/8252784/">Remote Sensing Image Scene Classification via Learning Discriminative CNNs, </a> 
-                <br>
-		Gong Chen, <b>Ceyuan Yang,</b> Xiwen Yao, Lei Guo, Junwei Han. 
-		<br>
-		<em>IEEE Trans. on Geoscience and Remote Sensing</em> (<b>TGRS</b>), 2018.
-		<br>
-		[<a href="http://ieeexplore.ieee.org/document/8252784/">Paper</a>][<a href="https://github.com/limbo0000/PairLoss">Code</a>]<p></p>
-	</li>
-
-</ul>
 
 
 ### Honors & Awards：
