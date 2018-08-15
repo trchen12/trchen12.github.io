@@ -21,5 +21,5 @@ Her research interests include blablabla.
 
 ### Contact
 
-- Email: [chentr@hku.hk](mailto:yangceyuan@sensetime.com)  
-- Github: [github.com/trchen12](https://github.com/limbo0000/)
+- Email: [chentr@hku.hk](mailto:chentr@hku.hk)  
+- Github: [github.com/trchen12](https://github.com/trchen12/)
