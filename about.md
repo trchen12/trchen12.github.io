@@ -7,7 +7,7 @@ header-img: "img/5.jpg"
 ## Tianrong Chen 陈天容
 
 ### Biography
-Tianrong Chen will pursue her PhD degree at [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.hku.hk/) in the [University of Hong Kong](http://www.cuhk.edu.hk/chinese/index.html) from 2018. Before that, she received the B. Eng degree from [<U>Honors College</U>](http://honors.nwpu.edu.cn/) in [Northwestern Polytechnical University](http://www.nwpu.edu.cn/). 
+Tianrong Chen will pursue her PhD degree at Department of Industrial and Manufacturing Systems Engineering(https://www.imse.hku.hk/) in the [University of Hong Kong](http://www.cuhk.edu.hk/chinese/index.html) from 2018. Before that, she received the B. Eng degree from [<U>Honors College</U>](http://honors.nwpu.edu.cn/) in [Northwestern Polytechnical University](http://www.nwpu.edu.cn/). 
 
 Her research interests include blablabla.
 
