@@ -7,7 +7,7 @@ header-img: "img/5.jpg"
 ## Tianrong Chen 陈天容
 
 ### Biography
-Tianrong Chen is Ph.D. candidate at [<U> Department of Industrial and Manufacturing Systems Engineering </U>](https://www.imse.hku.hk/) in [the University of Hong Kong](https://www.hku.hk/). Before that, she received the B.Eng. in Industrial Engineering from [<U>Honors College</U>](http://honors.nwpu.edu.cn/) in [<U> Northwestern Polytechnical University </U>](http://www.nwpu.edu.cn/). 
+Tianrong Chen is Ph.D. candidate at [<U> Department of Industrial and Manufacturing Systems Engineering </U>](https://www.imse.hku.hk/) in [the University of Hong Kong](https://www.hku.hk/). Before that, she received the B.Eng. in Industrial Engineering from [<U> Honors College </U>](http://honors.nwpu.edu.cn/) in [Northwestern Polytechnical University](http://www.nwpu.edu.cn/). 
 
 Her research interests include ergonomics engineering and public health.
 
