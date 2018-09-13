@@ -21,7 +21,7 @@ Her research interests include ergonomics engineering and public health.
 
 ### Honors & Awards：
 -  2018 **Outstanding Graduate** of Northwestern Polytechnical University.
--  2017, 2016, 2015 **1st Class** Scholarship of Northwestern Polytechnical University.
+-  2014 - 2017 **1st Class** Scholarship of Northwestern Polytechnical University.
 
 ### Contact
 
