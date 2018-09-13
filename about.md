@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-description: "认真生活"
+description: "Good Things Require Time"
 header-img: "img/5.jpg"
 ---
 ## Tianrong Chen 陈天容
@@ -15,14 +15,23 @@ Her research interests include ergonomics engineering and public health.
 - <font color="red" size="3"> [Jun 2018] Graduate from NPU!</font>
 
 ### Experiences
-- Performance Analysis Center of Production and Operations Systems (PacPos), NPU, Xi'an, China
-<br>
-Mar 2017 - Jun 2018
-<br>
-- Summer School at University of California, Berkeley, CA, USA  
-<br>
-Jul 2016 - Aug 2016
-<br>
+<ul>
+  <li>
+    Performance Analysis Center of Production and Operations Systems (PacPos), NPU, Xi'an, China
+    <br>
+    <em>Mar 2017 - Jun 2018</em>
+    <br>
+    Scheduling project: Pareto optimization for two-agent scheduling on a single parallel-batching machine
+  </li>
+  
+  <li>
+  Summer School at University of California, Berkeley, CA, USA
+  <br>
+  <em>Jul 2016 - Aug 2016</em>
+  <br>
+  Six-week study on Introduction to Biostatistics.
+  </li>
+</ul>
 
 
 ### Honors & Awards
