@@ -15,11 +15,17 @@ Her research interests include ergonomics engineering and public health.
 - <font color="red" size="3"> [Jun 2018] Graduate from NPU!</font>
 
 ### Experiences
-- Mar 2017 - Jun 2018 Performance Analysis Center of Production and Operations Systems (PacPos), NPU, Xi'an, China
-- Jul 2016 - Aug 2016 Summer School at University of California, Berkeley, CA, USA                                               
+- Performance Analysis Center of Production and Operations Systems (PacPos), NPU, Xi'an, China
+<br>
+Mar 2017 - Jun 2018
+<br>
+- Summer School at University of California, Berkeley, CA, USA  
+<br>
+Jul 2016 - Aug 2016
+<br>
 
 
-### Honors & Awards：
+### Honors & Awards
 -  2018 **Outstanding Graduate** of Northwestern Polytechnical University.
 -  2014 - 2017 **1st Class** Scholarship of Northwestern Polytechnical University.
 
