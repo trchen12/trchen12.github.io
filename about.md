@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-description: "Good Things Require Time"
+description: "Keep Pursuing"
 header-img: "img/5.jpg"
 ---
 ## Tianrong Chen 陈天容
