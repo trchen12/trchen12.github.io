@@ -12,8 +12,11 @@ Tianrong Chen is a Ph.D. candidate at [<U> Department of Industrial and Manufact
 Her research interests include ergonomics engineering and public health.
 
 ### News
-- <font color="red" size="3"> [Jun. 2018] Graduate from NPU.</font>
+- <font color="red" size="3"> [Jun 2018] Graduate from NPU!</font>
 
+### Experiences
+- Mar 2017 - Jun 2018 Performance Analysis Center of Production and Operations Systems (PacPos), NPU, Xi'an, China
+- Jul 2016 - Aug 2016 Summer School at University of California, Berkeley, CA, USA                                               
 
 
 ### Honors & Awards：
