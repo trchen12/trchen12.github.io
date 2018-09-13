@@ -1,5 +1,5 @@
 # Site settings
-title: 遗世独立的理想国
+title: A Sky Full of Stars
 header-img: "img/1.jpg"
 tagline: "cn"  
 description: "Tianrong| I am who I am"  
@@ -8,7 +8,7 @@ url: "http://limbo0000.github.io"
  # About/contact
 owner: 
   name: "Tianrong "
-  email: "limbo0000@gmail.com"
+  email: "chentr@hku.hk"
   bio: "Welcome bro"
 
 # Data
@@ -18,9 +18,9 @@ favicon: img/favicon.png
 douban_username:  
 github_username: trchen12
 facebook_username: 
-zhihu_username: yang-ce-yuan
-email: limbo0000@gmail.com
-jianshu_username: 047512188d81  
+zhihu_username:
+email: chentr@hku.hk
+jianshu_username:
 
 # Build settings  
 # use Github Flavored Markdown !important  
