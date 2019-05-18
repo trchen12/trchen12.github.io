@@ -4,7 +4,7 @@ title: "About Me"
 description: "Keep Pursuing"
 header-img: "img/5.jpg"
 ---
-## Tianrong Chen 陈天容
+## Tianrong Chen
 
 ### Biography
 Tianrong Chen is a Ph.D. candidate at [<U> Department of Industrial and Manufacturing Systems Engineering </U>](https://www.imse.hku.hk/) in [the University of Hong Kong](https://www.hku.hk/). Before that, she received the B.Eng. in Industrial Engineering from [<U> Honors College </U>](http://honors.nwpu.edu.cn/) in [Northwestern Polytechnical University](http://www.nwpu.edu.cn/). 
