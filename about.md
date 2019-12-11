@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-description: "Keep Pursuing"
+description:
 header-img: "img/5.jpg"
 ---
 ## Tianrong Chen
