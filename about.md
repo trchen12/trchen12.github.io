@@ -12,9 +12,12 @@ Tianrong Chen is a Ph.D. candidate at [<U> Department of Industrial and Manufact
 
 Her research interests include ergonomics engineering and public health.
 
+<!--
 ### News
 - <font color="red" size="3"> [Jun 2018] Graduate from NPU!</font>
+-->
 
+<!--
 ### Experiences
 <ul>
   <li>
@@ -33,12 +36,13 @@ Her research interests include ergonomics engineering and public health.
   Six-week study on Introduction to Biostatistics.
   </li>
 </ul>
+-->
 
-
+<!--
 ### Honors & Awards
 -  2018 **Outstanding Graduate** of Northwestern Polytechnical University.
 -  2014 - 2017 **1st Class** Scholarship of Northwestern Polytechnical University.
-</div>
+-->
 
 
 ### Contact
