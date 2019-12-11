@@ -6,15 +6,15 @@ header-img: "img/5.jpg"
 ---
 ## Tianrong Chen
 
-### Biography
+<!-- ### Biography
 Tianrong Chen is a Ph.D. candidate at [<U> Department of Industrial and Manufacturing Systems Engineering </U>](https://www.imse.hku.hk/) in [the University of Hong Kong](https://www.hku.hk/). Before that, she received the B.Eng. in Industrial Engineering from [<U> Honors College </U>](http://honors.nwpu.edu.cn/) in [Northwestern Polytechnical University](http://www.nwpu.edu.cn/). 
 
-Her research interests include ergonomics engineering and public health.
+<!-- Her research interests include ergonomics engineering and public health.
 
-### News
+<!-- ### News
 - <font color="red" size="3"> [Jun 2018] Graduate from NPU!</font>
 
-### Experiences
+<!-- ### Experiences
 <ul>
   <li>
     Performance Analysis Center of Production and Operations Systems (PacPos), NPU, Xi'an, China
@@ -24,7 +24,7 @@ Her research interests include ergonomics engineering and public health.
     Scheduling project: Pareto optimization for two-agent scheduling on a single parallel-batching machine
   </li>
   
-  <li>
+ <!--  <li>
   Summer School at University of California, Berkeley, CA, USA
   <br>
   <em>Jul 2016 - Aug 2016</em>
@@ -34,7 +34,7 @@ Her research interests include ergonomics engineering and public health.
 </ul>
 
 
-### Honors & Awards
+<!-- ### Honors & Awards
 -  2018 **Outstanding Graduate** of Northwestern Polytechnical University.
 -  2014 - 2017 **1st Class** Scholarship of Northwestern Polytechnical University.
 
